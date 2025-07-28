@@ -1,76 +1,6 @@
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\jquery-validation\dist\additional-methods.js
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\jquery\dist\jquery.slim.js
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\js\site.js
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\jquery\LICENSE.txt
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\css\site.css
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\jquery\dist\jquery.slim.min.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\favicon.ico
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\jquery-validation\LICENSE.md
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\jquery\dist\jquery.min.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\jquery\dist\jquery.min.js
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\jquery\dist\jquery.js
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-F:\Software Development\HWA DEV\Apiclient_ef\wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
-wwwroot\lib\bootstrap\dist\css\bootstrap.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -95,6 +25,14 @@ wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
@@ -108,6 +46,14 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
@@ -115,11 +61,65 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\lib\jquery-validation\dist\additional-methods.js
-wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-wwwroot\lib\jquery-validation\dist\jquery.validate.js
-wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-wwwroot\lib\jquery-validation\LICENSE.md
-wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
-wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\css\site.css
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\favicon.ico
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\js\site.js
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\jquery-validation\LICENSE.md
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\jquery\dist\jquery.js
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\jquery\dist\jquery.min.js
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\jquery\dist\jquery.min.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\Software Development\FOR HWA (ensure be in git)\API_CLIENT_EntityFramework-1\wwwroot\lib\jquery\LICENSE.txt

@@ -2,8 +2,9 @@
 
 <h2>Edit Record</h2>
 
-<form asp-action="Get" method="post">
+<form asp-action="Update" method="post">
     <input type="hidden" asp-for="Id" />
+    <input type="hidden" name="_method" value="PUT" />
 
     <div class="form-group">
         <label asp-for="Name"></label>
@@ -12,7 +13,7 @@
 
     <div class="form-group">
         <label asp-for="Last_update"></label>
-        <input asp-for="Last_update" class="form-control" type="datetime" />
+        <input asp-for="Last_update" class="form-control" type="datetime-local" />
     </div>
 
     <button type="submit" class="btn btn-success">Save Changes</button>

@@ -2,112 +2,151 @@
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using System.Net.Http.Headers;
+using System.Text;
 using System.Text.Json;
 using SystemJson = System.Text.Json;
 
 namespace Apiclient_ef.Controllers
 {
-    public class TestController : Controller
-    {
-        public IActionResult Index()
-        {
-            return View();
-        }
+	public class TestController : Controller
+	{
+		private HttpClient CreateHttpClient()
+		{
+			var client = new HttpClient
+			{
+				BaseAddress = new Uri("http://localhost:5233/"),
+				Timeout = TimeSpan.FromMinutes(3)
+			};
+			client.DefaultRequestHeaders.Accept.Clear();
+			client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+			return client;
+		}
 
-        // API- LIST DATA FROM SERVER AS JSON DATA
-        [HttpGet("Listjson")]
-        public async Task<IActionResult> ShowProducts()
-        {
-            using var client = new HttpClient();
-            client.BaseAddress = new Uri("https://localhost:7093/");
+		public IActionResult Index() => View();
 
-            var response = await client.GetAsync("api/test/select");
+		public IActionResult Create() => View();
 
-            if (!response.IsSuccessStatusCode)
-            {
-                return Json(new { message = "Failed to fetch data" });
-            }
+		[HttpPost]
+		public async Task<IActionResult> Create(Test test)
+		{
+			try
+			{
+				using var client = CreateHttpClient();
+				var content = new StringContent(SystemJson.JsonSerializer.Serialize(test), Encoding.UTF8, "application/json");
+				var response = await client.PostAsync("api/test/create", content);
 
-            // ⬇️ Make sure this line is inside the scope where `response` is available
-            var responseData = await response.Content.ReadAsStringAsync();
+				if (!response.IsSuccessStatusCode)
+				{
+					ViewBag.Message = "Insert failed.";
+					return View(test);
+				}
 
-            var items = System.Text.Json.JsonSerializer.Deserialize<List<Test>>(responseData, new System.Text.Json.JsonSerializerOptions
-            {
-                PropertyNameCaseInsensitive = true
-            });
+				return RedirectToAction("ShowProducts");
+			}
+			catch (TaskCanceledException)
+			{
+				ViewBag.Message = "Request timed out.";
+				return View(test);
+			}
+			catch (Exception)
+			{
+				ViewBag.Message = "Unexpected error occurred.";
+				return View(test);
+			}
+		}
 
-            return Json(items);
+		[HttpGet("Listjson")]
+		public async Task<IActionResult> ShowProducts()
+		{
+			try
+			{
+				using var client = CreateHttpClient();
+				var response = await client.GetAsync("api/test/select");
 
-        }
+				if (!response.IsSuccessStatusCode)
+					return Json(new { message = "Failed to fetch data" });
 
-        // API- LIST DATA FROM SERVER INTO VIEW PAGE
-        [HttpGet("Listtable")]
-        public async Task<IActionResult> Get()
-        {
-            using var client = new HttpClient();
-            client.BaseAddress = new Uri("https://localhost:7093/");
+				var responseData = await response.Content.ReadAsStringAsync();
+				var items = SystemJson.JsonSerializer.Deserialize<List<Test>>(responseData, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
 
-            var response = await client.GetAsync("api/test/select");
+				return Json(items);
+			}
+			catch (Exception)
+			{
+				return Json(new { message = "Unexpected error occurred" });
+			}
+		}
 
-            if (!response.IsSuccessStatusCode)
-            {
-                ViewBag.Message = "Failed to fetch data";
-                return View(new List<Test>());
-            }
+		[HttpGet("Listtable")]
+		public async Task<IActionResult> Get()
+		{
+			try
+			{
+				using var client = CreateHttpClient();
+				var response = await client.GetAsync("api/test/select");
 
-            var responseData = await response.Content.ReadAsStringAsync();
+				if (!response.IsSuccessStatusCode)
+				{
+					ViewBag.Message = "Failed to fetch data";
+					return View(new List<Test>());
+				}
 
-            var items = System.Text.Json.JsonSerializer.Deserialize<List<Test>>(responseData, new System.Text.Json.JsonSerializerOptions
-            {
-                PropertyNameCaseInsensitive = true
-            });
+				var responseData = await response.Content.ReadAsStringAsync();
+				var items = SystemJson.JsonSerializer.Deserialize<List<Test>>(responseData, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
 
-            return View(items); // ⬅️ This passes your data to the Razor view
-        }
+				return View(items);
+			}
+			catch (Exception)
+			{
+				ViewBag.Message = "Unexpected error occurred.";
+				return View(new List<Test>());
+			}
+		}
 
-        // API- LOAD THIS DATA INTO EDIT PAGE (TEXTBOXES)
-        [HttpGet]
-        public async Task<IActionResult> Edit(int id)
-        {
-            using var client = new HttpClient();
-            client.BaseAddress = new Uri("https://localhost:7093/"); // Use your actual base URL
+		[HttpGet]
+		public async Task<IActionResult> Edit(int id)
+		{
+			try
+			{
+				using var client = CreateHttpClient();
+				var response = await client.GetAsync($"api/test/{id}");
 
-            var response = await client.GetAsync($"api/test/{id}");
-            if (!response.IsSuccessStatusCode)
-            {
-                return NotFound(); // or show error message
-            }
+				if (!response.IsSuccessStatusCode)
+					return NotFound();
 
-            var json = await response.Content.ReadAsStringAsync();
-            var item = System.Text.Json.JsonSerializer.Deserialize<Test>(json,
-                new System.Text.Json.JsonSerializerOptions { PropertyNameCaseInsensitive = true });
+				var json = await response.Content.ReadAsStringAsync();
+				var item = SystemJson.JsonSerializer.Deserialize<Test>(json, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
 
-            return View(item); // Pass the fetched item to Razor view
-        }
+				return View(item);
+			}
+			catch (Exception)
+			{
+				return NotFound();
+			}
+		}
 
-        // API- UPDATE BY TEXTBOX DATA by the ID
-        [HttpPut]
-        public async Task<IActionResult> Update(Test updated)
-        {
-            using var client = new HttpClient();
-            client.BaseAddress = new Uri("https://localhost:7093/");
+		[HttpPut("Update")]
+		public async Task<IActionResult> Update(int id, Test updated)
+		{
+			try
+			{
+				using var client = CreateHttpClient();
+				var content = new StringContent(SystemJson.JsonSerializer.Serialize(updated), Encoding.UTF8, "application/json");
+				var response = await client.PutAsync($"api/test/update/{updated.Id}", content);
 
-            var content = new StringContent(
-                System.Text.Json.JsonSerializer.Serialize(updated),
-                System.Text.Encoding.UTF8,
-                "application/json"
-            );
+				if (!response.IsSuccessStatusCode)
+				{
+					ViewBag.Message = "Update failed.";
+					return View("Edit", updated);
+				}
 
-            var response = await client.PutAsync($"api/test/update/{updated.Id}", content);
-
-            if (!response.IsSuccessStatusCode)
-            {
-                ViewBag.Message = "Update failed.";
-                return View("Edit", updated);
-            }
-
-            return RedirectToAction("ShowProducts");
-        }
-
-    }
+				return RedirectToAction("ShowProducts");
+			}
+			catch (Exception)
+			{
+				ViewBag.Message = "Unexpected error during update.";
+				return View("Edit", updated);
+			}
+		}
+	}
 }

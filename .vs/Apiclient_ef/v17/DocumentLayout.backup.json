@@ -1,38 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\",
+  "WorkspaceRootPath": "D:\\Software Development\\FOR HWA (ensure be in git)\\API_CLIENT_EntityFramework-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|f:\\software development\\hwa dev\\apiclient_ef\\views\\test\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|solutionrelative:views\\test\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|f:\\software development\\hwa dev\\apiclient_ef\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|f:\\software development\\hwa dev\\apiclient_ef\\views\\test\\get.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|solutionrelative:views\\test\\get.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|f:\\software development\\hwa dev\\apiclient_ef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|f:\\software development\\hwa dev\\apiclient_ef\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|d:\\software development\\for hwa (ensure be in git)\\api_client_entityframework-1\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|solutionrelative:models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|f:\\software development\\hwa dev\\apiclient_ef\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|d:\\software development\\for hwa (ensure be in git)\\api_client_entityframework-1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|f:\\software development\\hwa dev\\apiclient_ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|d:\\software development\\for hwa (ensure be in git)\\api_client_entityframework-1\\views\\test\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|solutionrelative:views\\test\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|d:\\software development\\for hwa (ensure be in git)\\api_client_entityframework-1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|d:\\software development\\for hwa (ensure be in git)\\api_client_entityframework-1\\views\\test\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|solutionrelative:views\\test\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|d:\\software development\\for hwa (ensure be in git)\\api_client_entityframework-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|f:\\software development\\hwa dev\\apiclient_ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|d:\\software development\\for hwa (ensure be in git)\\api_client_entityframework-1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|d:\\software development\\for hwa (ensure be in git)\\api_client_entityframework-1\\views\\test\\get.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|solutionrelative:views\\test\\get.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|d:\\software development\\for hwa (ensure be in git)\\api_client_entityframework-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,40 +46,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Views\\Test\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Test\\Edit.cshtml",
-              "ToolTip": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Views\\Test\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Test\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Software Development\\FOR HWA (ensure be in git)\\API_CLIENT_EntityFramework-1\\Views\\Test\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Test\\Create.cshtml",
+              "ToolTip": "D:\\Software Development\\FOR HWA (ensure be in git)\\API_CLIENT_EntityFramework-1\\Views\\Test\\Create.cshtml",
+              "RelativeToolTip": "Views\\Test\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwBAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T07:51:46.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T10:45:01.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Software Development\\FOR HWA (ensure be in git)\\API_CLIENT_EntityFramework-1\\Views\\Test\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Test\\Edit.cshtml",
+              "ToolTip": "D:\\Software Development\\FOR HWA (ensure be in git)\\API_CLIENT_EntityFramework-1\\Views\\Test\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Test\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T07:51:46.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Program.cs",
+              "DocumentMoniker": "D:\\Software Development\\FOR HWA (ensure be in git)\\API_CLIENT_EntityFramework-1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Program.cs",
+              "ToolTip": "D:\\Software Development\\FOR HWA (ensure be in git)\\API_CLIENT_EntityFramework-1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvyAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T06:47:39.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\Software Development\\FOR HWA (ensure be in git)\\API_CLIENT_EntityFramework-1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Software Development\\FOR HWA (ensure be in git)\\API_CLIENT_EntityFramework-1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -83,11 +98,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\appsettings.json",
+              "DocumentMoniker": "D:\\Software Development\\FOR HWA (ensure be in git)\\API_CLIENT_EntityFramework-1\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\appsettings.json",
+              "ToolTip": "D:\\Software Development\\FOR HWA (ensure be in git)\\API_CLIENT_EntityFramework-1\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -95,51 +110,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Test.cs",
-              "DocumentMoniker": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Models\\Test.cs",
+              "DocumentMoniker": "D:\\Software Development\\FOR HWA (ensure be in git)\\API_CLIENT_EntityFramework-1\\Models\\Test.cs",
               "RelativeDocumentMoniker": "Models\\Test.cs",
-              "ToolTip": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Models\\Test.cs",
+              "ToolTip": "D:\\Software Development\\FOR HWA (ensure be in git)\\API_CLIENT_EntityFramework-1\\Models\\Test.cs",
               "RelativeToolTip": "Models\\Test.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T06:04:57.924Z"
+              "WhenOpened": "2025-07-28T06:04:57.924Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Get.cshtml",
-              "DocumentMoniker": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Views\\Test\\Get.cshtml",
+              "DocumentMoniker": "D:\\Software Development\\FOR HWA (ensure be in git)\\API_CLIENT_EntityFramework-1\\Views\\Test\\Get.cshtml",
               "RelativeDocumentMoniker": "Views\\Test\\Get.cshtml",
-              "ToolTip": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Views\\Test\\Get.cshtml",
+              "ToolTip": "D:\\Software Development\\FOR HWA (ensure be in git)\\API_CLIENT_EntityFramework-1\\Views\\Test\\Get.cshtml",
               "RelativeToolTip": "Views\\Test\\Get.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T06:02:12.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T06:02:12.022Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TestController.cs",
-              "DocumentMoniker": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Controllers\\TestController.cs",
+              "DocumentMoniker": "D:\\Software Development\\FOR HWA (ensure be in git)\\API_CLIENT_EntityFramework-1\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "Controllers\\TestController.cs",
-              "ToolTip": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\Software Development\\FOR HWA (ensure be in git)\\API_CLIENT_EntityFramework-1\\Controllers\\TestController.cs",
               "RelativeToolTip": "Controllers\\TestController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T06:01:06.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T06:01:06.291Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\Software Development\\FOR HWA (ensure be in git)\\API_CLIENT_EntityFramework-1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Software Development\\FOR HWA (ensure be in git)\\API_CLIENT_EntityFramework-1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-28T06:00:05.03Z"
             }
