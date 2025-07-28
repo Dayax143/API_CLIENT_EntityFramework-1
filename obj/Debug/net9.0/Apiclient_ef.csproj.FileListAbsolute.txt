@@ -99,3 +99,4 @@ F:\Software Development\HWA DEV\Apiclient_ef\obj\Debug\net9.0\ref\Apiclient_ef.d
 F:\Software Development\HWA DEV\Apiclient_ef\bin\Debug\net9.0\Newtonsoft.Json.dll
 F:\Software Development\HWA DEV\Apiclient_ef\obj\Debug\net9.0\Apiclient_ef.csproj.AssemblyReference.cache
 F:\Software Development\HWA DEV\Apiclient_ef\obj\Debug\net9.0\Apiclien.1C75AAD9.Up2Date
+F:\Software Development\HWA DEV\Apiclient_ef\obj\Debug\net9.0\Apiclient_ef.sourcelink.json

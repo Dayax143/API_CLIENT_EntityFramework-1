@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|f:\\software development\\hwa dev\\apiclient_ef\\views\\test\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|solutionrelative:views\\test\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|f:\\software development\\hwa dev\\apiclient_ef\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|f:\\software development\\hwa dev\\apiclient_ef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|f:\\software development\\hwa dev\\apiclient_ef\\views\\test\\get.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|solutionrelative:views\\test\\get.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|f:\\software development\\hwa dev\\apiclient_ef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D21930B-43AD-4C04-846C-B51D67C5626F}|Apiclient_ef.csproj|f:\\software development\\hwa dev\\apiclient_ef\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Views\\Test\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Test\\Edit.cshtml",
+              "ToolTip": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Views\\Test\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Test\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T07:51:46.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -50,12 +67,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T06:47:39.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T06:47:39.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -63,12 +79,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T06:41:43.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T06:41:43.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -76,12 +91,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-28T06:17:42.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T06:17:42.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Test.cs",
               "DocumentMoniker": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Models\\Test.cs",
               "RelativeDocumentMoniker": "Models\\Test.cs",
@@ -89,8 +103,7 @@
               "RelativeToolTip": "Models\\Test.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T06:04:57.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T06:04:57.924Z"
             },
             {
               "$type": "Document",
@@ -100,27 +113,27 @@
               "RelativeDocumentMoniker": "Views\\Test\\Get.cshtml",
               "ToolTip": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Views\\Test\\Get.cshtml",
               "RelativeToolTip": "Views\\Test\\Get.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-28T06:02:12.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TestController.cs",
               "DocumentMoniker": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "Controllers\\TestController.cs",
               "ToolTip": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Controllers\\TestController.cs",
               "RelativeToolTip": "Controllers\\TestController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T06:01:06.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "F:\\Software Development\\HWA DEV\\Apiclient_ef\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -128,8 +141,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T06:00:05.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T06:00:05.03Z"
             }
           ]
         }

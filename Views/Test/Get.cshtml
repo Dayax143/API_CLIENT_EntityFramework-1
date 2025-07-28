@@ -6,6 +6,7 @@
             <th>ID</th>
             <th>Name</th>
             <th>Last update</th>
+            <th>Actions</th>
         </tr>
     </thead>
     <tbody>
@@ -15,6 +16,9 @@
                 <td>@item.Id</td>
                 <td>@item.Name</td>
                 <td>@item.Last_update</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Test", new { id = item.Id })" class="btn btn-primary">Edit</a>
+                    <a href="@Url.Action("Delete", "Test", new { id = item.Id })" class="btn btn-danger">Delete</a</td>
             </tr>
         }
     </tbody>
