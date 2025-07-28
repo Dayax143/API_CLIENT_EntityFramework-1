@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Apiclient_ef.props" />
+</Project>
